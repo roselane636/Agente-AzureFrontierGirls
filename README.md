@@ -31,10 +31,15 @@ Envia email com lista atualizada
 ### Video da configuração do agente 
 ![Video de configuração do agente](cfgAgente.gif)
 
-### Demonstração do agente
+### Demonstração da execução do agente
 ![Demonstração do agente](videochat.gif)
 
-### Logs threads da demonstração
+### Logs threads da execução
 ![Threasds da execução](Videologsthread.gif)
+
+## Links de Referencias
+[AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/agents/overview?view=foundry-classic)
+
+[Challenge Azure Frontier Girls](https://github.com/Miyake-Diogo/AzureFrontierGirls-AI-Challenge/tree/main)
 
 
