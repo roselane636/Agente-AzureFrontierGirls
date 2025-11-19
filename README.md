@@ -11,33 +11,30 @@ Implantação: gpt-4o-mini
 Conhecimento: Arquivo txt contendo uma lista de itens inicial  
 Ações: Envio de email
 
-## Instruções para o Agente
+## Instruções e funcionamento do Agente
 Adiciona item novo  
 Aumenta/diminui quantidade de item existente  
 Exclui item  
-Impede itens proibidos (pbebida alcoolica e enlatados)  
+Impede itens proibidos (bebida alcoólica e enlatados)  
 Envia email com lista atualizada  
 
-
-
-## Lista Inicial de Mantimentos
-![Lista de mantimentos incial](ListaInicialMantimentos.jpg)
-
-## Configuração do agente - Prints
-![configuração do agente1.1](cfg1Agente.jpg)
-
-![configuração do agente1.2](cfg2Agente.jpg)
-
-## Video da configuração do agente 
-![Video de configuração do agente](cfgAgente.gif)
-
-## Fluxograma
+### Fluxograma
 ![Fluxograma](Fluxo.jpg)
 
-## Demonstração do agente
+### Lista Inicial de Mantimentos
+![Lista de mantimentos incial](ListaInicialMantimentos.jpg)
+
+### Configuração do agente - Prints
+![configuração do agente1.1](cfg1Agente.jpg)
+![configuração do agente1.2](cfg2Agente.jpg)
+
+### Video da configuração do agente 
+![Video de configuração do agente](cfgAgente.gif)
+
+### Demonstração do agente
 ![Demonstração do agente](videochat.gif)
 
-## Logs threads da demonstração
+### Logs threads da demonstração
 ![Threasds da execução](Videologsthread.gif)
 
 
