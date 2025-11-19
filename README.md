@@ -14,7 +14,7 @@ Ações: Envio de email
 hfghfgh
 
 ## Lista de Mantimentos Inicial
-![Lista de mantimentos incial](ItensCompras.jpg)
+![Lista de mantimentos incial](ListaInicialMantimentos.jpg)
 
 ## Configuração do agente - Prints
 ![configuração do agente1.1](cfg1Agente.jpg)
