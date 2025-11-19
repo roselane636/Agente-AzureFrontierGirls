@@ -8,7 +8,7 @@ Introdução
 ![configuração do agente1.2](cfg2Agente.jpg)
 
 ## Video da configuração do agente 
-![Video de configuração do agente](URL_DO_SEU_GIF_AQUI)
+![Video de configuração do agente](cfgAgente.gif)
 
 ## Fluxograma
 ![Fluxograma](Fluxo.jpg)
