@@ -16,7 +16,7 @@ Introdução
 ## Demonstração do agente
 ![Demonstração do agente](videochat.gif)
 
-## Video dos logs threads da demonstração
+## Logs threads da demonstração
 ![Threasds da execução](Videologsthread.gif)
 
 
