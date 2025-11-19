@@ -42,4 +42,10 @@ Envia email com lista atualizada
 
 [Challenge Azure Frontier Girls](https://github.com/Miyake-Diogo/AzureFrontierGirls-AI-Challenge/tree/main)
 
+## Considerações/dificuldades
+Em muitos testes, o agente não fazia a analise do arquivo txt na base de conhecimento, para validar o item solicitado pelo user. De modo, que trazia informações erradas. Nesses casos, era necessário pedir no chat para que ele usasse o arquivo.txt para continuar com os testes corretamente. Alterei várias vezes o prompt de instrução, mas mesmo assim, algumas iterações não saiam conforme o esperado. 
+O envio de email era pra ser somente quando o usuário pedisse pra enviar, mas o agente dava a opção de envio de email, sem um pedido do usuário.
+
+
+
 
