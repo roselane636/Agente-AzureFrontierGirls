@@ -2,7 +2,7 @@
 Agente teste do Foundry, como desafio do Azure Frontier Girls de AI Foundry.
 
 ## Introdução
-Este projeto implementa um agente baseado no [Foundry Agent Framework] para gerenciar e automatizar a lista de compras doméstica. O agente é capaz de processar comandos para adicionar, remover e alterar quantidades de itens, aplicar regras de restrição (listas proibidas) e enviar lista de itens por e-mail.
+Este projeto implementa um agente do "Foundry Agent Framework" para gerenciar e automatizar a lista de compras doméstica. O agente é capaz de processar comandos para adicionar, remover e alterar quantidades de itens, aplicar regras de restrição (listas proibidas) e enviar lista de itens por e-mail.
 
 ## Tecnologias utilizadas
 Foundry Agent Framework: Base para a construção e orquestração do agente  
