@@ -8,7 +8,7 @@ O agente será capaz de processar comandos em linguagem natural para adicionar, 
 ## Tecnologias utilizadas
 Foundry Agent Framework: Base para a construção e orquestração do agente  
 Implantação: gpt-4o-mini  
-Conhecimento: Arquivo txt contendo uma lista de itens inicial  
+Conhecimento: Análise de arquivo txt contendo uma lista de itens inicial  
 Ações: Envio de email
 
 ## Instruções e funcionamento do Agente
