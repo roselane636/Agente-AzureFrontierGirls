@@ -10,6 +10,12 @@ Implantação: gpt-4o-mini
 Conhecimento: Arquivo txt contendo uma lista de itens inicial  
 Ações: Envio de email
 
+## Funcionamento do Agente
+hfghfgh
+
+## Lista de Mantimentos Inicial
+![Lista de mantimentos incial](ItensCompras.jpg)
+
 ## Configuração do agente - Prints
 ![configuração do agente1.1](cfg1Agente.jpg)
 
